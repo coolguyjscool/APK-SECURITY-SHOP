@@ -73,7 +73,7 @@ Every app below is **open‑source**, **auditable**, and **unmodified**.
   Source: https://github.com/ukanth/afwall  
 
 - **OpenSnitch (Android ports)**  
-  Source: https://github.com/evilsocket/opensnitch  
+  Couldn't find any
                                                                                                         # 📥 APK INSTALLER (SAI)
 
 This store includes **SAI (Split APKs Installer)** to help users install split APKs safely.
