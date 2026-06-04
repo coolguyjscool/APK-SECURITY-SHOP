@@ -74,7 +74,7 @@ Every app below is **open‑source**, **auditable**, and **unmodified**.
 
 - **OpenSnitch (Android ports)**  
   Couldn't find any
-                                                                                                        # 📥 APK INSTALLER (SAI)
+                                                                                                                         # 📥 APK INSTALLER (SAI)
 
 This store includes **SAI (Split APKs Installer)** to help users install split APKs safely.
 
