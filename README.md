@@ -166,7 +166,7 @@ This store includes additional apps that are verified, clean, and sourced from t
 
 ## 📱 Most Apps Are Also on F‑Droid
 Many apps in this archive are also available on **F‑Droid**, the trusted open‑source Android repository.
-F-Droid.org
+https://f-droid.org/en/
 ### 🧑‍💻 Who Makes F‑Droid?
 F‑Droid is developed and maintained by the **F‑Droid Community**, a global team of:
 - Open‑source developers  
