@@ -114,7 +114,7 @@ To protect users, developers, and this project, the following legal terms apply:
 - Use at your own risk.  
 
 
-
+l
 # 🚀 HOW TO INSTALL
 
 1. Download **SAI**  
@@ -138,7 +138,7 @@ All contributions must follow open‑source licensing rules.
 This store does not modify or redistribute code.  
 All apps follow their original open‑source licenses.  
 This repository only organizes and provides access to unmodified APKs.                     .
- 📦 Extra things                                                                                                        # 📦 WELCOME TO SNIPER’S APK ARCHIVE
+                                                                                                                       # 📦 WELCOME TO SNIPER’S APK ARCHIVE And extra essential things
 
 A long‑term preservation project dedicated to keeping important Android apps accessible, organized, and unmodified. This archive focuses on transparency, open‑source integrity, and proper credit to every original developer.
 
