@@ -138,7 +138,7 @@ All contributions must follow open‑source licensing rules.
 This store does not modify or redistribute code.  
 All apps follow their original open‑source licenses.  
 This repository only organizes and provides access to unmodified APKs.                     .
-                                                                                                                       # 📦 WELCOME TO SNIPER’S APK ARCHIVE And extra essential things
+                                                                               ## 📦 WELCOME TO SNIPER’S APK ARCHIVE
 
 A long‑term preservation project dedicated to keeping important Android apps accessible, organized, and unmodified. This archive focuses on transparency, open‑source integrity, and proper credit to every original developer.
 
@@ -163,6 +163,21 @@ If you want more safe, open‑source APKs beyond the Security APK Store, you can
 **APK Store Shop (Safe & Open‑Source APKs):**  
 https://github.com/coolguyjscool/Apk-store-shop  
 This store includes additional apps that are verified, clean, and sourced from trusted open‑source developers.
+
+## 📱 Most Apps Are Also on F‑Droid
+Many apps in this archive are also available on **F‑Droid**, the trusted open‑source Android repository.
+
+**Tiny F‑Droid Image Link Template:**  
+[![F‑Droid](fdroid.png)](https://f-droid.org/packages/your.package.name/)
+
+### 🧑‍💻 Who Makes F‑Droid?
+F‑Droid is developed and maintained by the **F‑Droid Community**, a global team of:
+- Open‑source developers  
+- Security researchers  
+- Privacy advocates  
+- Volunteer maintainers  
+
+The project is coordinated by the **F‑Droid Project Team**, who manage the infrastructure, repository builds, and security review processes.
 
 ## 🚀 Official Releases
 Download all official releases of the Security APK Store here:
@@ -189,4 +204,4 @@ This archive exists to **preserve**, not replace, their work.
 Logos, icons, and badges are included for documentation and customization.  
 Use them freely within the terms of their original licenses.
 
-More tools, more preservation, and more updates coming soon.
+More tools, more preservation, and more updates coming soon.                                        # 
