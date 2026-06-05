@@ -138,3 +138,55 @@ All contributions must follow open‑source licensing rules.
 This store does not modify or redistribute code.  
 All apps follow their original open‑source licenses.  
 This repository only organizes and provides access to unmodified APKs.                     .
+ 📦 Extra things                                                                                                        # 📦 WELCOME TO SNIPER’S APK ARCHIVE
+
+A long‑term preservation project dedicated to keeping important Android apps accessible, organized, and unmodified. This archive focuses on transparency, open‑source integrity, and proper credit to every original developer.
+
+## 🧾 License & Integrity
+All apps in this archive remain under their **original licenses**.  
+Nothing is modified, repacked, resigned, or altered.  
+Every file is preserved exactly as released by the developer.
+
+## 🗂️ GitHub & Project Structure
+This archive is fully hosted on GitHub for:
+- Clean version control  
+- Transparent updates  
+- Easy access to releases  
+- Long‑term preservation  
+
+Main Repository:  
+https://github.com/yourusername/yourrepo
+
+## 🛒 Other Safe APK Stores
+If you want more safe, open‑source APKs beyond the Security APK Store, you can also check out my other project:
+
+**APK Store Shop (Safe & Open‑Source APKs):**  
+https://github.com/coolguyjscool/Apk-store-shop  
+This store includes additional apps that are verified, clean, and sourced from trusted open‑source developers.
+
+## 🚀 Official Releases
+Download all official releases of the Security APK Store here:
+
+**Security APK Store Releases:**  
+https://github.com/coolguyjscool/APK-SECURITY-SHOP/releases
+
+## 👑 Credits & Respect
+All credit goes to:
+- The original developers  
+- Open‑source contributors  
+- Security researchers  
+- Privacy‑focused communities  
+
+This archive exists to **preserve**, not replace, their work.
+
+## 🔐 Purpose of the Archive
+- Keep important APKs available even if they disappear elsewhere  
+- Provide clean, safe, unmodified downloads  
+- Support open‑source security and privacy tools  
+- Maintain a historical record of versions and updates  
+
+## 📥 Extra Assets
+Logos, icons, and badges are included for documentation and customization.  
+Use them freely within the terms of their original licenses.
+
+More tools, more preservation, and more updates coming soon.
