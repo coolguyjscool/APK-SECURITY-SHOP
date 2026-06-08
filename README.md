@@ -20,7 +20,7 @@ Everything here is **unmodified**, **auditable**, and **straight from the offici
 # 🛡️ LOGO CREDITS
 
 This store uses a **custom lock‑style logo**, designed specifically for the Security APK Store.  
-Created by **sniper and guns**.  
+Created by **sniper and guns or aka apk hoster Official**.  
 All rights to the logo belong to the creator.  
 This project does **not** use the Android robot or any Google‑owned imagery.
 
